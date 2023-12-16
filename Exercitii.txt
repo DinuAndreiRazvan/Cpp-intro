@@ -1,0 +1,56 @@
+﻿Probleme
+
+    1. Se citeste un numar natural a.
+        A.  Sa se verifice daca este par
+        B.  Sa se verifice daca este impar
+        C.  Sa se verifice daca este divizibil cu 3 si este mai mare decat 137
+        D.  Sa se afiseze prima cifra a numarului (Ex: 4982 -> 4)
+        E.  Sa se verifice daca este prim
+        F.  Sa se verifice daca este patrat perfect
+        G.  Sa se verifice daca este numar perfect
+        H.  Sa se verifice daca este numar palindrom
+
+    2. Se citesc doua numere naturale a si b.
+        A.  Sa se afiseze numarul mai mare
+        B.  Sa se afiseze Suma acestora
+        C.  Sa se afiseze Produsul acestora
+        D.  Sa se afiseze Media Aritmetica
+        E.  Sa se verifice daca a este divizor al lui b
+        F.  Sa se verifice daca a si b sunt prime intre ele
+        G.  Sa se afiseze cel mai mare divizor comun al numerelor
+Rezolvare: Algoritmul lui Euclid
+        H.  Sa se afiseze cel mai mic multiplu comun al numerelor
+ Rezolvare: Algoritmul lui Euclid
+        I.  Sa se afiseze suma numerelor din intervalul [a,b]
+        J.  Sa se afiseze produsul numerelor din intervalul [a,b]
+        K.  Sa se afiseze suma numerelor pare din intervalul [a,b]
+        L.  Sa se afiseze produsul numerelor divizibile cu 5 din intervalul (a,b)
+        M.  Sa se afiseze suma si produsul numerelor impare din intervalul (a,b]
+        N.  Sa se afiseze suma numerelor pare si produsul numerelor impare din intervalul [a,b)
+        O. Sa se afiseze suma numerelor prime din intervalul [a,b]
+        P. Sa se afiseze produsul numerelor palindrom din intervalul [a,b]
+        Q.  Sa se afiseze numarul numerelor impare din intervalul [a,b]
+        R.  Sa se afiseze numarul numerelor prime din intervalul [a,b]
+        S.  Sa se afiseze numarul numerelor palindrom din intervalul [a,b]
+        T.  Sa se verifice daca exista cel putin un numar perfect in intervalul [a,b]
+
+    3. Se citeste un numar natural n si n numere naturale. 
+        A.  Sa se afiseze suma numerelor
+        B.  Sa se afiseze produsul numerelor impare
+        C.  Sa se afiseze maximul numerelor
+        D.  Sa se afiseze minimul numerelor
+        E.  Sa se verifice daca exista numere prime
+        F.  Sa se verifice daca toate numerele sunt impare si mai mici strict decat 17
+        G.  Sa se verifice daca doua numere consecutive(in ordinea citirii acestora) sunt divizibile cu 7
+        H.  Sa se verifice daca doua numere consecutive(in ordinea citirii acestora) sunt prime intre ele
+
+NOTITE  TEORETICE :
+Numar prim  = numar care are drept divizori doar numarul 1 si el insusi
+		Ex: 5 = 1 * 5
+Numar patrat perfect = numar intreg care este egal cu patratul altui numar
+		Ex: 9 = 1
+Numar perfect = numar egal cu suma divizorilor sai, fara el insusi
+Ex: 6 = 1+2+3
+     Numar palindrom = numar care este egal cu oglinditul sau
+Ex: 121=121  ;  142≠241
+    Numere prime intre ele = două numere întregi sunt prime între ele sau coprime dacă ele nu au alt divizor comun în afară de 1
